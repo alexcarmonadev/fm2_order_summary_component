@@ -1,13 +1,13 @@
 # Frontend Mentor - Order summary card solution
 
-:point_right: This is the [Order summary card](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Order summary card](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-tJ9S_OOOC) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm2_order_summary_component/)
 
 Give a ⭐️ if you like this project!
 
